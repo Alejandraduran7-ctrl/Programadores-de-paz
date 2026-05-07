@@ -1,0 +1,4 @@
+mkdir cd touch
+mkdir cd touch
+mkdir cd touch
+mkdir, touch,cd
