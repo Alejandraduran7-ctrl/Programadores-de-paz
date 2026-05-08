@@ -1,0 +1,7 @@
+Es crucial que los proyectos de software mantengan un registro de cambios usando herramientas como Git por múltiples razones que impactan directamente en la calidad, eficiencia y sostenibilidad del desarrollo. Aquí te detallo las más importantes:
+ 
+1. Control de Versiones y Historial Completo
+ 
+- Trazabilidad: Git registra cada cambio realizado, quién lo hizo, cuándo y por qué (gracias a los mensajes de commit). Esto crea un historial inmutable del proyecto.
+
+- Reversión: Permite "deshacer" errores fácilmente, volviendo a una versión anterior y funcional del código si algo sale mal.
