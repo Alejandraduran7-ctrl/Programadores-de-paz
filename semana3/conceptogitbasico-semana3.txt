@@ -1,0 +1,3 @@
+repositorio: un respositorio es un espacio centralizado, generalmentedigital basicamente es un lugar donde se guardan, se organizan y controlan archivos de trabajo o un proyecto. 1.controla versiones 2. trabaja en equipo 
+push: es la accion de enviar o subir todo lo que se ha creado o guardado en un commit desde un repositorio.
+commit: un commit guarda el estado de un archivo o un proyecto en un momento asignado. en ves de datos un commit finaliza una unidad de trabajo haciendo permanente los cambios realizados
