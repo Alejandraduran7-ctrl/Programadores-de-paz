@@ -1,0 +1,1 @@
+porque cuando una iniciativa ciudadana depende de herramientas de terceros, depende tambien de sus reglas, precios y de si mañana deciden cerrar el servicio. usar tecnologia abierta como  Node.js cambia todo
