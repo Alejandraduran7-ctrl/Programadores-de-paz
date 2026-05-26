@@ -1,0 +1,13 @@
+EXPLICACIÓN DE LA RUTA POST 
+
+1. ¿Qué hace esta ruta?
+Esta es una ruta de tipo POST llamada /reporte. Su función es recibir información que envía el usuario o una aplicación, procesarla y devolver una respuesta.
+- Cuando alguien envía datos a esta ruta, el código obtiene el valor del campo mensaje que se envió.
+- Luego devuelve una respuesta en formato JSON que confirma que la información fue recibida, mostrando también el mensaje que se envió.
+
+2. ¿Para qué podría servir en una aplicación comunitaria?
+Esta ruta es muy útil para que los miembros de la comunidad puedan enviar información importante, como:
+- Reportes de problemas o necesidades de la zona
+- Comentarios o sugerencias
+- Información sobre eventos o actividades
+- Cualquier tipo de dato que se quiera guardar o compartir con el grupo

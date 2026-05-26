@@ -1,0 +1,10 @@
+PRUEBAS DE RUTAS
+
+1. Ruta: http://localhost:3000
+Al entrar en esta dirección, el servidor responde con el mensaje: Servidor activo. 
+
+2. Ruta: http://localhost:3000/saludo
+Al entrar, el servidor muestra el mensaje: Hola comunidad.
+
+3. Ruta: http://localhost:3000/mensaje/juan
+Al entrar, el servidor muestra: Hola juan
