@@ -1,0 +1,17 @@
+Ruta: http://localhost:3000/registro
+Método: POST
+Datos enviados:
+{
+  nombre: Maria,
+  mensaje: Hola comunidad
+}
+
+Respuesta del servidor:
+{
+  estado: Datos recibidos,
+  nombre: Maria,
+  mensaje: Hola comunidad
+}
+
+Explicación:
+El servidor recibe la información enviada en formato JSON gracias a express.json(), la lee desde req.body y devuelve una confirmación con los datos recibidos. Esto confirma que la comunicación funciona correctamente
