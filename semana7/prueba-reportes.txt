@@ -1,0 +1,23 @@
+Método POST
+{
+   tipo: Infraestructura,
+   descripcion: Daño en alumbrado público
+ }
+ Respuesta del servidor:
+ {
+   mensaje: Reporte registrado correctamente,
+   reporte: {
+     id: 1,
+     tipo: Infraestructura,
+     descripcion: Daño en alumbrado público
+   }
+ }
+
+Método GET
+
+ [
+   {
+     id: 1,
+     tipo: Infraestructura,
+     descripcion: Daño en alumbrado público
+   }
