@@ -1,0 +1,3 @@
+Que una plataforma comunitaria funcione de forma estable y segura es fundamental, ya que es el espacio donde los usuarios comparten información, colaboran y toman decisiones conjuntas. Si el servidor falla o es inseguro, se interrumpe el acceso y se pierde la confianza de quienes participan.
+
+Además, una operación continua evita que se pierdan datos importantes y protege la información de accesos indebidos. Garantizar estabilidad y seguridad permite que la comunidad trabaje sin interrupciones y mantenga su actividad organizada y protegida a largo plazo
