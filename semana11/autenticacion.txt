@@ -1,0 +1,3 @@
+El login es el mecanismo mediante el cual una persona ingresa sus credenciales (como usuario y contraseña) para que el sistema verifique su identidad y le permita acceder a su perfil y funciones autorizadas.
+ Algunas rutas deben estar protegidas porque permiten acciones que modifican información, gestionan accesos internos o muestran datos que no son de interés público; si quedan abiertas cualquiera podría alterar reportes, borrar registros o acceder a información confidencial.
+ Nunca se debe exponer públicamente contraseñas, números de documento de identidad, teléfonos, direcciones residenciales, correos electrónicos privados, tokens de acceso, claves de API ni cualquier dato que pueda poner en riesgo a los integrantes de la comunidad

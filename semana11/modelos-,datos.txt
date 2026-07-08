@@ -1,0 +1,19 @@
+Entidad: ReporteComunitario
+ Campos principales:
+ - id (identificador único del reporte)
+ - tipo_problema (ej: alumbrado público, recolección de residuos, vías)
+ - descripcion_corta
+ - zona_barrio
+ - fecha_registro
+ - estado (pendiente, en revisión, resuelto)
+ Propósito:
+ Almacenar los reportes de problemas o necesidades que presenta la comunidad, sin incluir datos personales sensibles, para dar seguimiento y visibilizar las solicitudes ante las autoridades.
+ Entidad: ComentarioSeguimiento
+ Campos principales:
+ - id (identificador único del comentario)
+ - reporte_id (vínculo con el reporte al que se refiere)
+ - autor_nombre_ficticio (o rol: ciudadano, veedor, coordinador)
+ - mensaje_actualizacion
+ - fecha_comentario
+ Propósito:
+ Registrar las novedades, respuestas o avances sobre cada reporte, manteniendo la trazabilidad del proceso sin revelar información privada de quienes participan
