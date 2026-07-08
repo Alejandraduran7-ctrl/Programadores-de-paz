@@ -1,0 +1,9 @@
+¿Qué 2 tareas del backlog harías primero?
+ 1. Registro de incidencias por parte de los ciudadanos.
+ 2. Notificación automática de nuevos reportes al coordinador.
+ ¿Por qué son las más importantes?
+ Porque son la base del sistema: sin la posibilidad de registrar problemas, no hay información que gestionar. Sin la notificación, el equipo no se entera de los casos que deben atender, deteniendo todo el proceso.
+ Definición simple de terminado:
+ - La funcionalidad cumple exactamente lo que describe la historia de usuario.
+ - Se probó y funciona sin errores en casos de uso comunes.
+ - Se guardó el código en el repositorio de GitHub con su respectivo comentario
