@@ -1,0 +1,6 @@
+1. Una persona de la comunidad accede a la plataforma y escribe la información básica de su petición o causa.
+ 2. El sistema valida los datos y guarda la nueva causa en la base de datos, asignándole un identificador único.
+ 3. Otras personas consultan las causas publicadas y dan su apoyo ingresando solo la información indispensable.
+ 4. El sistema actualiza en tiempo real el contador total de respaldos que tiene cada iniciativa.
+ 5. Cuando el creador lo solicita o se cumple el número mínimo de apoyos, el sistema arma el documento oficial.
+ 6. Se genera automáticamente el archivo PDF con la petición y la lista de respaldos, listo para descargar y presentar ante las autoridades

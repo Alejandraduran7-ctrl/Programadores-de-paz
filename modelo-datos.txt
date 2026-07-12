@@ -1,0 +1,16 @@
+Modelo básico de datos:
+  Entidad: Causa
+ Propósito: Almacenar la información de cada petición o iniciativa que la comunidad quiere promover.
+ Campos:
+ - id: Código único para identificar cada causa sin confusiones.
+ - titulo: Nombre corto y claro de lo que se solicita.
+ - descripcion: Explicación del problema y la petición concreta a las entidades.
+ - fecha_creacion: Día y hora en que se registró la causa.
+ - estado: Indica si la iniciativa está abierta para recibir apoyos o cerrada.
+  Entidad: Apoyo
+ Propósito: Registrar el respaldo de las personas a las causas, guardando solo lo necesario.
+ Campos:
+ - id: Código único de cada registro de apoyo.
+ - causa_id: Relaciona este respaldo con la causa específica que corresponde.
+ - nombre: Nombre completo de la persona que brinda su apoyo.
+ - fecha_apoyo: Día y hora en que se registró el respaldo
