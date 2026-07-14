@@ -1,0 +1,7 @@
+Flujo completo del sistema Petición en 3 Clics:
+ 1. Una persona de la comunidad ingresa a la plataforma y llena los datos básicos para crear una nueva causa o petición.
+ 2. La información de la causa se guarda de forma segura en la base de datos del sistema.
+ 3. Otras personas consultan las causas publicadas y dan su apoyo a la que consideren relevante, ingresando solo los datos mínimos necesarios.
+ 4. El sistema acumula y actualiza el número total de apoyos recibidos para cada causa en tiempo real.
+ 5. Al alcanzar un número definido de apoyos, o cuando el usuario lo solicita, el sistema genera automáticamente un documento PDF formal con la petición y el listado de respaldos.
+ 6. El documento queda disponible para descargar, imprimir o presentar directamente ante las autoridades competentes

@@ -1,0 +1,7 @@
+Automatización propuesta con n8n y Telegram:
+ 🔹 Evento que activa la automatización:
+ Se registran 30 apoyos o más en una misma causa.
+ 🔹 Mensaje que se envía al canal comunitario de Telegram:
+ 📢 ¡Buena noticia! La causa: [Título de la causa] ya cuenta con más de 30 respaldos. Ya puedes generar el documento oficial para presentarlo.
+ 🔹 Información que NO se debe compartir por seguridad:
+ Nombres completos de todos los apoyadores, números de identificación, teléfonos, direcciones, correos electrónicos ni cualquier otro dato personal o sensible

@@ -1,0 +1,13 @@
+Modelo básico de datos:
+ --- Entidad: Causa ---
+ Sirve para almacenar toda la información relacionada con cada petición o iniciativa que la comunidad quiera presentar.
+ Campos:
+ - id: Identificador único para diferenciar cada causa de las demás.
+ - titulo: Nombre breve y claro de la petición.
+ - descripcion: Explicación detallada del problema y lo que se solicita a las autoridades.
+ - fecha_creacion: Día y hora en que se registró la causa en el sistema.
+ - usuario_creador: Referencia a quien creó la petición (sin datos excesivos).
+ --- Entidad: Apoyo ---
+ Sirve para registrar el respaldo de las personas a cada causa, sin almacenar información sensible de más.
+ Campos:
+- id: Identificador único de
